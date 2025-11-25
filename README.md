@@ -6,18 +6,18 @@ The recording combines footsteps on a **wooden bridge** and a **stone path**, de
 
 ## Context
 
-- Created as part of an **audio for games** course.
+- Created as part of a **game audio** course.
 - The goal was to design a clear and believable footstep sound for two different surfaces.
 - Prepared for use in a game engine / audio middleware (FMOD).
 
-## File
+## Files
 
 - `footsteps_wood_bridge_stone_path.m4a` – final rendered audio file.
+- `fmod_footsteps_timeline.png` – screenshot from FMOD showing the footstep event setup.
 
 ## Tools used
 
-- FMOD Studio (basic use for game audio).
-- Audio editing tools available during the class.
+- FMOD Studio – event setup, layering and volume automation.
 
 ## How this could be used in a game
 
